@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/bin/Debug/netcoreapp3.1/deneme25-Throw.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/bin/Debug/netcoreapp3.1/deneme25-Throw.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/bin/Debug/netcoreapp3.1/deneme25-Throw.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/bin/Debug/netcoreapp3.1/deneme25-Throw.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/bin/Debug/netcoreapp3.1/deneme25-Throw.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/obj/Debug/netcoreapp3.1/deneme25-Throw.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/obj/Debug/netcoreapp3.1/deneme25-Throw.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/obj/Debug/netcoreapp3.1/deneme25-Throw.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/obj/Debug/netcoreapp3.1/deneme25-Throw.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/obj/Debug/netcoreapp3.1/deneme25-Throw.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/obj/Debug/netcoreapp3.1/deneme25-Throw.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme25-Throw/obj/Debug/netcoreapp3.1/deneme25-Throw.genruntimeconfig.cache
