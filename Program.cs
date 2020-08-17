@@ -31,7 +31,7 @@ namespace Deneme25_Throw
             {
                 Numbers num = new Numbers(200);
             }
-            catch (OverflowException excp)
+            catch (Exception excp)
             {
                 Console.WriteLine(excp.Message);
                 //throw;
