@@ -5,12 +5,12 @@ namespace Deneme25_Throw
     class Numbers
     {
         private int mDeger;
-        public Numbers(int mDeger)
+        public Numbers(int deger)
         {
             if (mDeger > 100)
                 throw new OverflowException("Değer 100'den büyük olamaz!");
             else
-                this.mDeger = mDeger;
+                this.mDeger = deger;
         }
         public int Deger
         {
